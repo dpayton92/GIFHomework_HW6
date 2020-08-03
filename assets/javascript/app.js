@@ -1,5 +1,5 @@
 const numGIFs = 9;
-const api_url = `https://api.giphy.com/v1/gifs/search?api_key=0010990be74a4f048609620599cd5f8f&limit=${numGIFs}&q=`;
+const api_url = `https://api.giphy.com/v1/gifs/search?api_key=tsaRAFTloMlCnLQy7eltpavACehMk2Tj&limit=${numGIFs}&q=`;
 
 
 
